@@ -1,0 +1,2 @@
+# introtocybersecurityproject
+This is the document file and powerpoint file of introduction to cybersecurity subject. I am a student of cyberscurity engineering master degree at Riga Technical University. One of the subject in my first semester is introduction to cybersecurity. Hence, I needed to do final presentation for my subjects and I chose the topic " Cloud Security". I researched about the topic and made the research project with my college. This is my final two files and you can use freely, if you want.
